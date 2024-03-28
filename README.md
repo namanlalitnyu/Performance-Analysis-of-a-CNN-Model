@@ -16,9 +16,9 @@
 
 #### Results
 1. Time Complexity Comparison of two methods (in FLOPs) for different batch sizes 
-![alt text](./img/timeComplexity.png)
+![alt text](./img/TimeComplexity.png)
 
 
 
 2. Space Complexity (Memory) Comparison of the two methods (in Mb) for different batch sizes.
-![alt text](./img/spaceComplexity.png)
+![alt text](./img/SpaceComplexity.png)
